@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🇺🇸: Main page](README.md)
+* [%% 🇺🇸: Main page](README.md)
 * [🇷🇺: Главная страница](ru-main.md)
 
 ## The most important / Самое важное <a href="#imp" id="imp"></a>
