@@ -6,3 +6,7 @@
 ## 📑 Instructions / Инструкции <a href="#inst" id="inst"></a>
 
 * [Как научиться google'ить?](inst/kak-nauchitsya-googleit.md)
+
+***
+
+* [Page 1](page-1.md)
