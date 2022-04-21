@@ -1,3 +1,3 @@
 # Table of contents
 
-* [laib](README.md)
+* [ru: Alice's Library](README.md)
