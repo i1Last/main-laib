@@ -10,14 +10,14 @@
 
 {% tabs %}
 {% tab title="MagiskHide" %}
-{% content-ref url="v23.0-magiskhide.md" %}
-[v23.0-magiskhide.md](v23.0-magiskhide.md)
+{% content-ref url="23-mh.md" %}
+[23-mh.md](23-mh.md)
 {% endcontent-ref %}
 {% endtab %}
 
 {% tab title="MagiskHide + Universal SafetyNet Fix (USF) + Riru" %}
-{% content-ref url="v23.0-mh-+-usf-+-riru.md" %}
-[v23.0-mh-+-usf-+-riru.md](v23.0-mh-+-usf-+-riru.md)
+{% content-ref url="23-mh+usf+riru.md" %}
+[23-mh+usf+riru.md](23-mh+usf+riru.md)
 {% endcontent-ref %}
 {% endtab %}
 {% endtabs %}
@@ -32,14 +32,14 @@
 
 {% tabs %}
 {% tab title="Universal SafetyNet Fix (USF) + Zygisk" %}
-{% content-ref url="v24.0-usf-+-zygisk.md" %}
-[v24.0-usf-+-zygisk.md](v24.0-usf-+-zygisk.md)
+{% content-ref url="24-usf+zyg.md" %}
+[24-usf+zyg.md](24-usf+zyg.md)
 {% endcontent-ref %}
 {% endtab %}
 
 {% tab title="Zygisk + DenyList" %}
-{% content-ref url="v24.0-zygisk-+-denylist.md" %}
-[v24.0-zygisk-+-denylist.md](v24.0-zygisk-+-denylist.md)
+{% content-ref url="24-zyg+deny.md" %}
+[24-zyg+deny.md](24-zyg+deny.md)
 {% endcontent-ref %}
 {% endtab %}
 {% endtabs %}

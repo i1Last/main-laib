@@ -2,8 +2,8 @@
 
 ### Вы уже пробовали чистый MagiskHide? <a href="#vy-uzhe-probovali-chistyi-magiskhide" id="vy-uzhe-probovali-chistyi-magiskhide"></a>
 
-{% content-ref url="v23.0-magiskhide.md" %}
-[v23.0-magiskhide.md](v23.0-magiskhide.md)
+{% content-ref url="23-mh.md" %}
+[23-mh.md](23-mh.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
@@ -39,15 +39,13 @@
 ### **3. Скачиваем и устанавливаем модуль «Riru»**
 
 {% embed url="https://github.com/RikkaApps/Riru/releases" %}
-[Как установить модуль magisk?](../../inst/kak-ustanovit-modul-magisk.md)
+[Как установить модуль magisk?](../../inst/install-module-mg.md)
 {% endembed %}
-
-
 
 ### **4. Скачиваем и устанавливаем модуль «Universal SafetyNet Fix»**
 
 {% embed url="https://github.com/kdrag0n/safetynet-fix/releases/tag/v2.1.3" %}
-[Как установить модуль magisk?](../../inst/kak-ustanovit-modul-magisk.md)
+[Как установить модуль magisk?](../../inst/install-module-mg.md)
 {% endembed %}
 
 {% hint style="warning" %}
@@ -58,8 +56,8 @@
 
 ### **5. Очищаем данные Google**
 
-{% content-ref url="ochistka-dannykh-google-dlya-pochinki-safetynet.md" %}
-[ochistka-dannykh-google-dlya-pochinki-safetynet.md](ochistka-dannykh-google-dlya-pochinki-safetynet.md)
+{% content-ref url="google-clear.md" %}
+[google-clear.md](google-clear.md)
 {% endcontent-ref %}
 
 ***
