@@ -10,15 +10,15 @@
 
 {% embed url="https://youtu.be/CJYBSXCFxig" %}
 
-> \> [ссылка на ролик](https://youtu.be/CJYBSXCFxig)
+
 
 ***
 
 <details>
 
-<summary>Alice's Library не имеет никакого отношение к данному <a href="https://youtu.be/CJYBSXCFxig">видео-ролику</a>. Автор оригинала: <a href="https://youtube.com/c/HowdyhoNet">Хауди Хо</a></summary>
+<summary>Авторство видео-ролика</summary>
 
-
+Alice's Library не имеет никакого отношение к данному [видео-ролику](https://youtu.be/CJYBSXCFxig). Автор оригинала: [Хауди Хо](https://youtube.com/c/HowdyhoNet)
 
 </details>
 
