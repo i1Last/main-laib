@@ -1,7 +1,7 @@
 # Table of contents
 
-* [en: Alice's Library](README.md)
-* [ru: Alice's Library](<README (1).md>)
+* [🇺🇸: Main page](README.md)
+* [ru: Главная страница](ru-main.md)
 
 ## 📑 Instructions / Инструкции <a href="#inst" id="inst"></a>
 
