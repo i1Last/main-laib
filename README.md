@@ -1,11 +1,11 @@
-# 🇺🇸: Main page
+# Version selection / Выбор версии
 
-## Welcome to Alice's library!
+## Версия на русском языке:
 
-In this project you can learn a lot of important and useful information about Xiaomi devices (More soon)
+{% embed url="https://laib.gitbook.io/ru-laib" %}
 
-{% hint style="warning" %}
-Attention! When reading the pages, read the headlines! There is the information you are most likely looking for!
-{% endhint %}
+## Версия на английском языке:
 
-To learn more about the project, you can check "About"
+{% embed url="https://laib.gitbook.io/en-laib" %}
+
+кхмм
