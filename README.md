@@ -7,5 +7,3 @@
 ## Версия на английском языке:
 
 {% embed url="https://laib.gitbook.io/en-laib" %}
-
-кхмм
