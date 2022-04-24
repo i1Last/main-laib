@@ -4,6 +4,6 @@
 
 {% embed url="https://laib.gitbook.io/ru-laib" %}
 
-## Версия на английском языке:
+## English version:
 
-{% embed url="https://laib.gitbook.io/en-laib" %}
+Скоро - Soon
